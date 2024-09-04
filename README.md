@@ -4,5 +4,10 @@
 # Team members
 ## Muratty , Tom
 
+
+
+
+
+
 # location
-## Tokyo , Munich , New yourk
+## Tokyo, Munich, Newyork
