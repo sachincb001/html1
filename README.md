@@ -9,3 +9,5 @@
 
 # location
 ## Tokyo, Munich, Newyork
+
+# Rule is follow all rules
